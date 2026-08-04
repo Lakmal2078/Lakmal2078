@@ -1,4 +1,4 @@
-# 🇱🇰 Lakmal Vidanagamage
+# 🇱🇰 Lakmal Vidana Gamage
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A67E&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Lakmal+Vidana+Gamage+%F0%9F%91%8B;Sri+Lankan+Developer+%F0%9F%87%B1%F0%9F%87%B0;Android+%7C+Web+%7C+Backend+Developer;Building+Fast%2C+Secure+%26+Reliable+Apps;Turning+Ideas+Into+Real+Digital+Products+%F0%9F%9A%80" alt="Typing SVG" />
@@ -222,8 +222,7 @@ I believe good software should be:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakmal2078&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Lakmal's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -269,7 +268,7 @@ I believe good software should be:
 
 ---
 
-## 🌍 Let's Connect | සම්බන්ධ වෙමු
+## 🌍 Let's Connect 
 
 <p align="center">
 <a href="https://github.com/Lakmal2078">
@@ -315,3 +314,4 @@ I believe good software should be:
 **Made with ❤️ and ☕ from Sri Lanka 🇱🇰**
 
 </p>
+
