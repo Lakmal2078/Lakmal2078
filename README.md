@@ -293,7 +293,7 @@ I believe good software should be:
 
 ---
 
-## 🇱🇰 ශ්‍රී ලංකාවෙන් ලෝකයට
+## 🇱🇰 
 
 <p align="center">
 
