@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🇱🇰 ශ්‍රී ලංකාවේ Developer කෙනෙක් | 👨‍💻 Developer from Sri Lanka</b>
+  <b>🇱🇰 Developer කෙනෙක් | 👨‍💻 Developer from Sri Lanka</b>
 </p>
 
 <p align="center">
