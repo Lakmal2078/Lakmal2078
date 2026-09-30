@@ -2,11 +2,11 @@
 <!--                         LAKMAL VIDANA GAMAGE                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">🇱🇰 Lakmal Vidana Gamage</h1>
+<h1 align="center">🇱🇰 Lakmal Vidana Gamage</h1>                                 
 
 <p align="center">
   <strong>Developer • Builder • Problem Solver</strong>
-</p>
+</p>                                                                            
 
 <p align="center">
   <a href="https://github.com/Lakmal2078">
@@ -152,81 +152,59 @@ Digital cashier-oriented application project focused on practical transaction wo
 │             ↓                 │
 │        🔄 Improve             │
 └───────────────────────────────┘
-```
 
-### My priorities
-
-- ⚡ **Performance** — keep experiences fast
-- 🔐 **Security** — protect users and data
-- 🧱 **Reliability** — build systems that behave predictably
-- 🎨 **Usability** — make products easy to understand
-- 🛠️ **Maintainability** — keep code clean and practical
-
----
-
-## 📊 GitHub Activity
-
+My priorities
+ * ⚡ Performance — keep experiences fast
+ * 🔐 Security — protect users and data
+ * 🧱 Reliability — build systems that behave predictably
+ * 🎨 Usability — make products easy to understand
+ * 🛠️ Maintainability — keep code clean and practical
+📊 GitHub Activity
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lakmal2078&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-    alt="Top languages"
-  />
+<img
+height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lakmal2078&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+alt="GitHub statistics"
+/>
+<img
+height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+alt="Top languages"
+/>
 </p>
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lakmal2078&theme=github-compact&hide_border=true"
-    alt="GitHub contribution graph"
-  />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Lakmal2078&theme=github-compact&hide_border=true"
+alt="GitHub contribution graph"
+/>
 </p>
-
----
-
-## 🎯 Current Direction
-
-- 📱 Improve Android development
-- 🌐 Build better full-stack applications
-- ⚙️ Explore modern backend architecture
-- 🔐 Strengthen application security
-- 🤖 Learn more about AI & automation
-- 🚀 Build production-ready digital services
-- 🌍 Contribute more to open source
-
----
-
-## 🌍 Let's Connect
-
+🎯 Current Direction
+ * 📱 Improve Android development
+ * 🌐 Build better full-stack applications
+ * ⚙️ Explore modern backend architecture
+ * 🔐 Strengthen application security
+ * 🤖 Learn more about AI & automation
+ * 🚀 Build production-ready digital services
+ * 🌍 Contribute more to open source
+🌍 Let's Connect
 <p align="center">
-  <a href="https://github.com/Lakmal2078">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/lakmal-vidanagamage">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://lakmal2078.github.io/gamagemarketing/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:lakmalsujith25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<a href="https://github.com/Lakmal2078">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/lakmal-vidanagamage">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://lakmal2078.github.io/gamagemarketing/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:lakmalsujith25@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </p>
-
----
-
 <p align="center">
-
-### 🇱🇰 සිංහලෙන් හිතමු • English වලින් Code කරමු • ලෝකයට Build කරමු 🚀
-
+🇱🇰 සිංහලෙන් හිතමු • English වලින් Code කරමු • ලෝකයට Build කරමු 🚀
 <strong>Code • Create • Learn • Improve • Repeat</strong>
-
-<br>
-
 <sub>Made with ❤️ and ☕ from Sri Lanka 🇱🇰</sub>
-
 </p>
+
+
