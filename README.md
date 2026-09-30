@@ -1,112 +1,86 @@
-# 🇱🇰 Lakmal Vidana Gamage
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         LAKMAL VIDANA GAMAGE                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">🇱🇰 Lakmal Vidana Gamage</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A67E&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Lakmal+Vidana+Gamage+%F0%9F%91%8B;Sri+Lankan+Developer+%F0%9F%87%B1%F0%9F%87%B0;Android+%7C+Web+%7C+Backend+Developer;Building+Fast%2C+Secure+%26+Reliable+Apps;Turning+Ideas+Into+Real+Digital+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>🇱🇰 Developer කෙනෙක් | 👨‍💻 Developer from Sri Lanka</b>
+  <strong>Developer • Builder • Problem Solver</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Lakmal2078">
-    <img src="https://img.shields.io/badge/GitHub-Lakmal2078-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Lakmal2078-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/lakmal-vidanagamage">
-    <img src="https://img.shields.io/badge/LinkedIn-Lakmal%20Vidana%20Gamage-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://lakmal2078.github.io/gamagemarketing/">
-    <img src="https://img.shields.io/badge/Portfolio-Gamage%20Marketing-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me | මා ගැන
-
-### 🇬🇧 English
-
-I'm a Developer from Sri Lanka passionate about building practical, reliable, and user-focused digital products.
-
-I work across Android, Web, Backend, Firebase, automation, and developer tooling, with a strong interest in turning real-world problems into simple and effective software solutions.
-
-### 🇱🇰 සිංහල
-
-මම ශ්‍රී ලංකාවේ Developer කෙනෙක්. සැබෑ පරිශීලක අවශ්‍යතා සඳහා වේගවත්, ආරක්ෂිත, විශ්වසනීය සහ භාවිතයට පහසු Digital Products නිර්මාණය කිරීමට මම කැමතියි.
-
-මගේ development work එක ප්‍රධාන වශයෙන් Android, Web, Backend, Firebase, Automation සහ Developer Tools වටා ගොඩනැගී ඇත.
-
----
-
-## 🚀 What I'm Building | මම ගොඩනඟන දේවල්
-
-- 📱 Android Applications
-- 🌐 Modern Web Applications
-- ⚙️ Backend & API Systems
-- 🔥 Firebase Applications
-- 🤖 Automation & Developer Tools
-- 💰 Cashier & Transaction Solutions
-- 🧩 Practical Digital Products
-
-### 🎯 Current Focus
-
-**Cashier Helper Android App**
-
-පරිශීලකයින් සඳහා වේගවත්, සුරක්ෂිත සහ විශ්වසනීය:
-
-- 💰 Deposits
-- 💸 Withdrawals
-- 📱 Mobile workflows
-- 🔐 Secure transaction handling
-- ⚡ Fast user experience
-
-සඳහා පහසු Digital experience එකක් නිර්මාණය කිරීම මගේ වර්තමාන focus එකකි.
-
----
-
-## 🧰 Tech Stack | මගේ තාක්ෂණික හැකියාවන්
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android" alt="Android Skills" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00A67E&center=true&vCenter=true&width=760&lines=Building+practical+digital+products+%F0%9F%9A%80;Android+%7C+Web+%7C+Backend+%7C+Automation;Fast+%7C+Secure+%7C+Reliable+%7C+User-focused;Turning+real-world+problems+into+software+%F0%9F%87%B1%F0%9F%87%BA"
+    alt="Typing introduction"
+  />
 </p>
 
-Kotlin • Android
+---
 
-### 🌐 Web Development
+## 👋 About Me
 
+I'm a Sri Lankan developer focused on building **practical, reliable, and user-focused digital products**.
+
+I enjoy working across **Android, Web, Backend, Firebase, automation, and developer tooling** — especially when technology can turn a real-world problem into a simple and useful solution.
+
+### 🇱🇰 සිංහලෙන්
+
+මම ශ්‍රී ලංකාවේ Developer කෙනෙක්. සැබෑ පරිශීලක අවශ්‍යතා හඳුනාගෙන **වේගවත්, ආරක්ෂිත, විශ්වසනීය සහ භාවිතයට පහසු Digital Products** නිර්මාණය කිරීමට කැමතියි.
+
+> 💡 **Think clearly → Build simply → Test properly → Ship confidently**
+
+---
+
+## 📌 Repository Profile
+
+| Area | Details |
+|---|---|
+| 👨‍💻 Focus | Android • Web • Backend • Automation |
+| 🧩 Building | Practical digital products & developer tools |
+| ☁️ Cloud | Firebase • GitHub • Modern web platforms |
+| 🛠️ Languages | Kotlin • JavaScript • Python • HTML • CSS |
+| 🎯 Priorities | Performance • Security • Reliability • UX |
+| 🌍 Location | Sri Lanka 🇱🇰 |
+
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Web Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android" alt="Kotlin and Android">
 </p>
 
-React • HTML • CSS • JavaScript
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web technologies">
+</p>
 
 ### ⚙️ Backend & Programming
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Backend technologies">
 </p>
 
-Node.js • Python
-
-### ☁️ Cloud & Tools
-
+### ☁️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,github,git,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" alt="Development tools">
 </p>
-
-Firebase • GitHub • Git • VS Code
-
-### 🗣️ Languages
-
-- 🇬🇧 English
-- 🇱🇰 Sinhala
-- 🇱🇰 Tamil
 
 ---
 
-## ⭐ Featured Projects | ප්‍රධාන Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
@@ -114,204 +88,145 @@ Firebase • GitHub • Git • VS Code
 
 ### 📦 pkg-browser
 
-Developer-oriented package browsing / tooling project.
-
-**Tech & Focus**
-
-- 🧩 Developer Tools
-- 📦 Package ecosystem
-- ⚡ Productivity
+Developer-oriented package browsing and tooling project.
 
 <a href="https://github.com/Lakmal2078/pkg-browser">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View pkg-browser">
 </a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🌐 Gamage Marketing
 
-Web project focused on digital marketing and online presence.
-
-**Tech & Focus**
-
-- 🌐 Web Development
-- 🎨 UI/UX
-- 📢 Marketing
+Digital marketing and web presence project.
 
 <a href="https://github.com/Lakmal2078/gamagemarketing">
-  <img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="View source">
 </a>
+<br><br>
 <a href="https://lakmal2078.github.io/gamagemarketing/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live demo">
 </a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 💰 Fast Cash New
 
-A cashier-oriented digital application project.
-
-**Tech & Focus**
-
-- 💰 Transactions
-- 📱 Digital Services
-- 🔐 Reliability
-- ⚡ User Experience
+Digital cashier-oriented application project focused on practical transaction workflows.
 
 <a href="https://github.com/Lakmal2078/Fast_cash_New">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🐍 matrix-system-monitor
-
-Python package for system monitoring, published on PyPI.
-
-**Tech & Focus**
-
-- 🐍 Python Package
-- 📊 System Monitoring
-- 📦 Published on PyPI
-
-<a href="https://pypi.org/project/matrix-system-monitor/3.0.0/">
-  <img src="https://img.shields.io/badge/PyPI-matrix--system--monitor-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Fast Cash New">
 </a>
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/Lakmal2078?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00A67E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+  </a>
+</p>
+
 ---
 
-## 🧠 Developer Mindset | මගේ Development Philosophy
+## 🧠 How I Build
 
-**🇬🇧 Build with purpose.**
-
-I believe good software should be:
-
-*«Fast • Secure • Reliable • Maintainable • User-Friendly»*
-
-**🇱🇰 හොඳ Software එකක් කියන්නේ...**
-
-*«වේගවත් + ආරක්ෂිත + විශ්වසනීය + භාවිතයට පහසු + Maintainable»*
-
-**My approach:**
-
-```
-💡 Understand the Problem
-        ↓
-🧠 Design the Solution
-        ↓
-⚙️ Build the Product
-        ↓
-🔐 Improve Security & Reliability
-        ↓
-🧪 Test & Refine
-        ↓
-🚀 Deploy & Improve
+```text
+┌───────────────────────────────┐
+│        💡 Understand          │
+│             ↓                 │
+│        🧠 Design              │
+│             ↓                 │
+│        ⚙️ Build               │
+│             ↓                 │
+│        🔐 Secure              │
+│             ↓                 │
+│        🧪 Test                │
+│             ↓                 │
+│        🚀 Deploy              │
+│             ↓                 │
+│        🔄 Improve             │
+└───────────────────────────────┘
 ```
 
+### My priorities
+
+- ⚡ **Performance** — keep experiences fast
+- 🔐 **Security** — protect users and data
+- 🧱 **Reliability** — build systems that behave predictably
+- 🎨 **Usability** — make products easy to understand
+- 🛠️ **Maintainability** — keep code clean and practical
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lakmal2078&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lakmal2078&theme=github-compact&hide_border=true"
+    alt="GitHub contribution graph"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Journey | Contribution ගමන
+## 🎯 Current Direction
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lakmal2078/Lakmal2078/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
-<p align="center">
-  <i>Every contribution represents another step forward. 🚀</i>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakmal2078&theme=github-compact&hide_border=true" alt="Lakmal's Contribution Graph" />
-</p>
+- 📱 Improve Android development
+- 🌐 Build better full-stack applications
+- ⚙️ Explore modern backend architecture
+- 🔐 Strengthen application security
+- 🤖 Learn more about AI & automation
+- 🚀 Build production-ready digital services
+- 🌍 Contribute more to open source
 
 ---
 
-## 🏆 GitHub Achievements
+## 🌍 Let's Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakmal2078&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔥 Current Goals | ඉදිරි අරමුණු
-
-- [x] Improve Android Development
-- [x] Build Better Full-Stack Applications
-- [x] Explore Modern Backend Architecture
-- [x] Improve Application Security
-- [x] Build Reliable Digital Services
-- [ ] Create More Open Source Projects
-- [ ] Learn More About AI & Automation
-- [ ] Build Production-Ready Systems
-
----
-
-## 🌍 Let's Connect 
-
-<p align="center">
-<a href="https://github.com/Lakmal2078">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/lakmal-vidanagamage">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://lakmal2078.github.io/gamagemarketing/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:lakmalsujith25@gmail.com">
-<img src="https://img.shields.io/badge/Email-lakmalsujith25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/94765865387">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://t.me/fast_xbet_cash">
-<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</p>
-
----
-
-## 🇱🇰 
-
-<p align="center">
-
-**🇱🇰 Sri Lankan Developer**
-
-සිංහලෙන් හිතමු • English වලින් Code කරමු • ලෝකයට Build කරමු 🚀
-
+  <a href="https://github.com/Lakmal2078">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/lakmal-vidanagamage">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://lakmal2078.github.io/gamagemarketing/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00A67E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:lakmalsujith25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 <p align="center">
 
-💻 Code • Create • Learn • Improve • Repeat
+### 🇱🇰 සිංහලෙන් හිතමු • English වලින් Code කරමු • ලෝකයට Build කරමු 🚀
 
-⭐ If you find something interesting in my projects, feel free to explore my repositories.
+<strong>Code • Create • Learn • Improve • Repeat</strong>
 
-**Made with ❤️ and ☕ from Sri Lanka 🇱🇰**
+<br>
+
+<sub>Made with ❤️ and ☕ from Sri Lanka 🇱🇰</sub>
 
 </p>
-
