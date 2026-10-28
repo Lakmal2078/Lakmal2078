@@ -4,7 +4,7 @@
 
 # Hi, I'm Lakmal 👋
 
-### Developer · Builder · Problem Solver
+### Software Developer · Mobile & Web Builder · Problem Solver
 
 Based in Sri Lanka 🇱🇰 · Building with curiosity, clarity, and purpose.
 
@@ -30,6 +30,7 @@ Based in Sri Lanka 🇱🇰 · Building with curiosity, clarity, and purpose.
   <a href="#about-me">About</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
   <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#engineering-principles">Principles</a> &nbsp;·&nbsp;
   <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
   <a href="#lets-connect">Connect</a>
 </p>
@@ -42,28 +43,26 @@ Based in Sri Lanka 🇱🇰 · Building with curiosity, clarity, and purpose.
 
 ## 👨‍💻 About Me
 
-I'm Lakmal Vidana Gamage, a developer from Sri Lanka who enjoys turning real-world problems into practical digital experiences.
+I'm **Lakmal Vidana Gamage**, a developer from Sri Lanka who enjoys turning real-world challenges into practical, reliable, and user-centric software.
 
-My interests span Android development, web applications, backend systems, and automation. I enjoy connecting these technologies to build tools that are useful, understandable, and easy to work with.
+My core focus centers on **Android development, full-stack web applications, backend services, and practical automation**. I care about clean architecture, privacy by design, responsive performance, and creating tools that solve actual everyday problems.
 
-- 📱 Building and improving my Android development skills.
-- 🌐 Exploring full-stack applications and backend architecture.
-- 🤖 Working with bots, automation, and developer tooling.
-- 🔐 Learning to make applications more secure and reliable.
-- 🌱 Growing through hands-on projects and open-source learning.
+- 📱 **Android & Mobile:** Native Android development (Java / Kotlin), custom Input Method Editors (IME), performance optimization, and accessibility.
+- 🌐 **Web & Full-Stack:** Modern web interfaces, responsive design, and practical API architectures.
+- 🤖 **Automation & Tooling:** Automated bots, developer workflow utilities, and Linux/shell scripting.
+- 🔐 **Privacy & Security:** On-device processing, defensive coding, and hardened access control.
+- 🌱 **Continuous Learning:** Always refining my skills through active open-source development and real-world projects.
 
-> Think clearly → Build simply → Test properly → Improve continuously.
+> *Think clearly &rarr; Build simply &rarr; Test thoroughly &rarr; Improve continuously.*
 
 <details>
-<summary>🇱🇰 සිංහලෙන් මා ගැන</summary>
+<summary>🇱🇰 සිංහලෙන් මා ගැන (About me in Sinhala)</summary>
 
 <br>
 
-මම ලක්මාල් විදාන ගමගේ — ශ්‍රී ලංකාවේ developer කෙනෙක්.
+මම **ලක්මාල් විදාන ගමගේ** — ශ්‍රී ලංකාවේ මෘදුකාංග සංවර්ධකයෙක් (Software Developer).
 
-සැබෑ ජීවිතයේ ගැටලුවලට සරල, ප්‍රායෝගික digital solutions නිර්මාණය කරන්න මම කැමතියි. Android, web development, backend systems සහ automation ගැන ඉගෙනගනිමින් projects ගොඩනඟනවා.
-
-මගේ අරමුණ භාවිතයට පහසු, විශ්වසනීය සහ පරිශීලකයාට වටිනාකමක් දෙන software නිර්මාණය කිරීමයි.
+සැබෑ ජීවිතයේ ගැටලුවලට සරල, වේගවත් සහ ප්‍රායෝගික digital විසඳුම් නිර්මාණය කිරීම මගේ ප්‍රධාන අරමුණයි. විශේෂයෙන් Android යෙදුම්, වෙබ් අඩවි, backend පද්ධති, bots සහ automation තාක්ෂණයන් භාවිත කරමින් පරිශීලකයාට උපරිම වටිනාකමක් හා ආරක්ෂාවක් ලබාදෙන මෘදුකාංග නිර්මාණයට මම කැපවී සිටිමි.
 
 </details>
 
@@ -73,31 +72,31 @@ My interests span Android development, web applications, backend systems, and au
 
 ## 🛠️ Tech Stack
 
-Technologies I work with and continue to explore.
+Technologies and tools I work with daily and continue to explore:
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>📱 Mobile</h3>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Kotlin and Android Studio">
-      <p>Android development · Mobile experiences</p>
+      <h3>📱 Mobile Development</h3>
+      <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio&theme=dark" alt="Java, Kotlin, Android Studio">
+      <p>Android SDK · Custom IMEs · Architecture Components · Gradle</p>
     </td>
     <td valign="top" width="50%">
-      <h3>🌐 Web</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, and React">
-      <p>Web interfaces · Frontend development</p>
+      <h3>🌐 Web & Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React, Tailwind">
+      <p>Modern UI · Responsive Layouts · Web Performance</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,firebase&theme=dark" alt="Node.js, Python, and Firebase">
-      <p>APIs · Application logic · Automation</p>
+      <h3>⚙️ Backend & Automation</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,firebase&theme=dark" alt="Node.js, Python, Firebase">
+      <p>RESTful APIs · Task Automation · Bot Architectures</p>
     </td>
     <td valign="top" width="50%">
-      <h3>☁️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare&theme=dark" alt="Git, GitHub, Visual Studio Code, and Cloudflare">
-      <p>Version control · Development tools · Cloud platforms</p>
+      <h3>☁️ Tools & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Cloudflare, Linux, Bash">
+      <p>Version Control · CI/CD Workflows · Terminal Automation</p>
     </td>
   </tr>
 </table>
@@ -108,52 +107,53 @@ Technologies I work with and continue to explore.
 
 ## 🚀 Selected Projects
 
-A selection of things I've been working on.
+Here are highlights of open-source and real-world projects I have built or actively maintain:
 
-### 📦 pkg-browser
+### ⌨️ [Unexpected Keyboard](https://github.com/Lakmal2078/Unexpected-Keyboard)
+A lightweight, privacy-focused Android virtual keyboard (IME) featuring corner swipe gestures, an interactive **Gboard-style theme gallery** with real-time previews, and a full **Sinhala phonetic (Singlish) transliteration suite** with context-aware word prediction.
+- **Tech:** Java, Android SDK (API 36), Python, Custom Layout Generators
+- **Links:** [Repository](https://github.com/Lakmal2078/Unexpected-Keyboard) · [Sinhala Guide](https://github.com/Lakmal2078/Unexpected-Keyboard/blob/master/README.si.md)
 
-A developer-oriented package browsing and tooling project.
+### 💬 [ChatLK (Inclusive Eyes)](https://github.com/Lakmal2078/inclusive-eyes-chatlk)
+A fast, modern multilingual conversational messaging platform built for intuitive user experience, instant interactions, and reliable communication workflows.
+- **Tech:** JavaScript, React, WebSockets, Node.js
+- **Links:** [Repository](https://github.com/Lakmal2078/inclusive-eyes-chatlk)
 
-<a href="https://github.com/Lakmal2078/pkg-browser">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View pkg-browser repository">
-</a>
+### 📦 [pkg-browser](https://github.com/Lakmal2078/pkg-browser)
+An interactive developer-oriented package explorer and tooling utility designed for rapid inspection of dependencies, distribution metadata, and software configurations.
+- **Tech:** JavaScript / TypeScript, Node.js, CLI Tools
+- **Links:** [Repository](https://github.com/Lakmal2078/pkg-browser)
 
-### 🌐 Gamage Marketing
+### 🌐 [Gamage Marketing](https://github.com/Lakmal2078/gamagemarketing)
+A fast, SEO-optimized digital web presence and marketing portal showcasing responsive web design and performance best practices.
+- **Tech:** HTML5, CSS3, JavaScript, GitHub Pages
+- **Links:** [Source Code](https://github.com/Lakmal2078/gamagemarketing) · [Live Website](https://lakmal2078.github.io/gamagemarketing/)
 
-A digital marketing and web presence project.
+### 💳 [Fast Cash New](https://github.com/Lakmal2078/Fast_cash_New)
+A digital cashier transaction workflow application focused on clarity, operational speed, and reliable ledger tracking.
+- **Tech:** Web Technologies, JavaScript, Security Hardening
+- **Links:** [Repository](https://github.com/Lakmal2078/Fast_cash_New)
 
-<a href="https://github.com/Lakmal2078/gamagemarketing">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Gamage Marketing source code">
-</a>
-<a href="https://lakmal2078.github.io/gamagemarketing/">
-  <img src="https://img.shields.io/badge/Visit_Website-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Gamage Marketing website">
-</a>
+<div align="center">
 
-### 💳 Fast Cash New
+[**Explore all public repositories &rarr;**](https://github.com/Lakmal2078?tab=repositories)
 
-A digital cashier-oriented application focused on practical transaction workflows.
-
-<a href="https://github.com/Lakmal2078/Fast_cash_New">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Fast Cash New repository">
-</a>
-
-<br>
-<br>
-
-[Explore all my repositories →](https://github.com/Lakmal2078?tab=repositories)
+</div>
 
 ---
 
+<a id="engineering-principles"></a>
+
 ## 🧭 How I Approach Building
 
-| Principle | What it means to me |
+| Principle | Practical Focus |
 | :--- | :--- |
-| 💡 Clarity | Understand the problem before choosing a solution. |
-| 🎯 Usability | Make the experience straightforward for the user. |
-| ⚡ Performance | Keep applications responsive and avoid unnecessary complexity. |
-| 🔐 Security | Consider user data and access controls from the start. |
-| 🧱 Reliability | Handle errors and aim for predictable behavior. |
-| 🔄 Improvement | Keep learning, testing, and refining the work. |
+| 💡 **Clarity First** | Thoroughly diagnose the real user need before choosing tools or writing code. |
+| 🎯 **Usability** | Build simple, intuitive interfaces that reduce friction for the end user. |
+| ⚡ **Performance** | Optimize bottlenecks, minimize allocations, and keep applications snappy. |
+| 🔐 **Privacy & Security** | Default to on-device processing and robust input sanitation from day one. |
+| 🧱 **Reliability** | Defensive error handling, deterministic tests, and predictable recovery. |
+| 🔄 **Continuous Polish** | Code review, refactor iteratively, and learn from user feedback. |
 
 ---
 
@@ -188,13 +188,13 @@ A digital cashier-oriented application focused on practical transaction workflow
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Focusing On
 
-- Android application architecture and better mobile experiences.
-- Full-stack development and backend design.
-- Application security and maintainable code.
-- AI-assisted workflows and useful automation.
-- Open-source projects and collaborative development.
+- 📱 Advanced Android input method engineering, accessibility, and dynamic theme systems.
+- 🌐 Scalable full-stack application patterns with modern web frameworks.
+- 🤖 Intelligent automation, developer productivity bots, and shell utilities.
+- 🔐 Real-world application security audits, privacy safeguards, and performance profiling.
+- 🤝 Contributing to open-source software and collaborating with developer communities.
 
 ---
 
@@ -202,13 +202,13 @@ A digital cashier-oriented application focused on practical transaction workflow
 
 ## 🤝 Let's Connect
 
-Interested in development, practical tools, or learning through building? Let's connect.
+Whether you'd like to discuss a project, collaborate on open-source software, or talk tech:
 
-- 💬 [WhatsApp: +94 76 586 5387](https://wa.me/94765865387)
-- ✉️ [lakmalsujith25@gmail.com](mailto:lakmalsujith25@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakmal-vidanagamage)
-- 🌐 [Portfolio](https://lakmal2078.github.io/gamagemarketing/)
-- 🐙 [GitHub](https://github.com/Lakmal2078)
+- 💬 **WhatsApp:** [+94 76 586 5387](https://wa.me/94765865387)
+- ✉️ **Email:** [lakmalsujith25@gmail.com](mailto:lakmalsujith25@gmail.com)
+- 💼 **LinkedIn:** [Lakmal Vidana Gamage](https://www.linkedin.com/in/lakmal-vidanagamage)
+- 🌐 **Portfolio:** [lakmal2078.github.io/gamagemarketing](https://lakmal2078.github.io/gamagemarketing/)
+- 🐙 **GitHub:** [@Lakmal2078](https://github.com/Lakmal2078)
 
 ---
 
@@ -218,6 +218,6 @@ Interested in development, practical tools, or learning through building? Let's 
 
 සිංහලෙන් හිතමු · English වලින් Code කරමු · ලෝකයට Build කරමු 🇱🇰
 
-<sub>Built with curiosity, care, and a little coffee. ☕</sub>
+<sub>Built with curiosity, care, and purpose.</sub>
 
 </div>
