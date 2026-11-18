@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Lakmal%20Vidana%20Gamage&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%" alt="Lakmal Vidana Gamage profile banner">
+<img src="https://raw.githubusercontent.com/Lakmal2078/Lakmal2078/main/header.svg/profile-header.svg" width="100%" alt="Lakmal Vidana Gamage animated developer profile header">
 
 <a href="https://github.com/Lakmal2078">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Lakmal+%F0%9F%91%8B;Android+%26+Web+Developer;Building+useful+tools+with+curiosity;Think+clearly.+Build+simply.+Improve+always." alt="Typing introduction">
