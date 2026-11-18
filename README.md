@@ -1,212 +1,167 @@
-<!-- GitHub Profile · Lakmal2078 -->
+<!-- Profile README for Lakmal2078 -->
 
 <div align="center">
 
-# Hi, I'm Lakmal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Lakmal%20Vidana%20Gamage&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%" alt="Lakmal Vidana Gamage profile banner">
 
-### Software Developer · Mobile & Web Builder · Problem Solver
-
-Based in Sri Lanka 🇱🇰 · Building with curiosity, clarity, and purpose.
+<a href="https://github.com/Lakmal2078">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Lakmal+%F0%9F%91%8B;Android+%26+Web+Developer;Building+useful+tools+with+curiosity;Think+clearly.+Build+simply.+Improve+always." alt="Typing introduction">
+</a>
 
 <p>
-  <a href="https://github.com/Lakmal2078">
-    <img src="https://img.shields.io/badge/GitHub-Lakmal2078-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile">
-  </a>
-  <a href="https://www.linkedin.com/in/lakmal-vidanagamage">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-  </a>
-  <a href="https://lakmal2078.github.io/gamagemarketing/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit my portfolio">
-  </a>
-  <a href="mailto:lakmalsujith25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send me an email">
-  </a>
-  <a href="https://wa.me/94765865387">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_with_me-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp: +94 76 586 5387">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Lakmal2078&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://github.com/Lakmal2078?tab=followers"><img src="https://img.shields.io/github/followers/Lakmal2078?style=for-the-badge&logo=github&label=Followers&color=0F172A" alt="GitHub followers"></a>
+  <a href="https://github.com/Lakmal2078?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Explore-0891B2?style=for-the-badge&logo=github" alt="Explore repositories"></a>
 </p>
 
 <p>
-  <a href="#about-me">About</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#engineering-principles">Principles</a> &nbsp;·&nbsp;
-  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
-  <a href="#lets-connect">Connect</a>
+  <a href="https://www.linkedin.com/in/lakmal-vidanagamage"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://lakmal2078.github.io/gamagemarketing/"><img src="https://img.shields.io/badge/Portfolio-Visit-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:lakmalsujith25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/94765865387"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
+
+**Sri Lanka 🇱🇰 · Turning practical ideas into useful software**
 
 </div>
 
 ---
-
-<a id="about-me"></a>
 
 ## 👨‍💻 About Me
 
-I'm **Lakmal Vidana Gamage**, a developer from Sri Lanka who enjoys turning real-world challenges into practical, reliable, and user-centric software.
+I'm **Lakmal Vidana Gamage**, a software developer from Sri Lanka. I enjoy solving real-world problems through practical, reliable, and user-focused software.
 
-My core focus centers on **Android development, full-stack web applications, backend services, and practical automation**. I care about clean architecture, privacy by design, responsive performance, and creating tools that solve actual everyday problems.
+My interests span **Android development, web applications, backend services, automation, and developer tooling**. I value clean architecture, thoughtful user experiences, privacy, and performance.
 
-- 📱 **Android & Mobile:** Native Android development (Java / Kotlin), custom Input Method Editors (IME), performance optimization, and accessibility.
-- 🌐 **Web & Full-Stack:** Modern web interfaces, responsive design, and practical API architectures.
-- 🤖 **Automation & Tooling:** Automated bots, developer workflow utilities, and Linux/shell scripting.
-- 🔐 **Privacy & Security:** On-device processing, defensive coding, and hardened access control.
-- 🌱 **Continuous Learning:** Always refining my skills through active open-source development and real-world projects.
-
-> *Think clearly &rarr; Build simply &rarr; Test thoroughly &rarr; Improve continuously.*
+- 📱 Building Android applications, custom keyboards (IMEs), and accessibility-focused features.
+- 🌐 Developing responsive web experiences and full-stack applications.
+- 🤖 Exploring automation, bots, Linux environments, and developer productivity tools.
+- 🔐 Prioritizing privacy-conscious design, secure defaults, and reliable software.
+- 🌱 Learning continuously by building, testing, and improving real projects.
 
 <details>
-<summary>🇱🇰 සිංහලෙන් මා ගැන (About me in Sinhala)</summary>
+<summary><b>🇱🇰 මා ගැන සිංහලෙන්</b></summary>
 
-<br>
+මම **ලක්මාල් විදාන ගමගේ** — ශ්‍රී ලංකාවේ මෘදුකාංග සංවර්ධකයෙක්.
 
-මම **ලක්මාල් විදාන ගමගේ** — ශ්‍රී ලංකාවේ මෘදුකාංග සංවර්ධකයෙක් (Software Developer).
-
-සැබෑ ජීවිතයේ ගැටලුවලට සරල, වේගවත් සහ ප්‍රායෝගික digital විසඳුම් නිර්මාණය කිරීම මගේ ප්‍රධාන අරමුණයි. විශේෂයෙන් Android යෙදුම්, වෙබ් අඩවි, backend පද්ධති, bots සහ automation තාක්ෂණයන් භාවිත කරමින් පරිශීලකයාට උපරිම වටිනාකමක් හා ආරක්ෂාවක් ලබාදෙන මෘදුකාංග නිර්මාණයට මම කැපවී සිටිමි.
+සැබෑ ජීවිතයේ ගැටලුවලට සරල, වේගවත් සහ ප්‍රායෝගික තාක්ෂණික විසඳුම් නිර්මාණය කිරීමට මම කැමතියි. Android යෙදුම්, වෙබ් අඩවි, backend පද්ධති, bots සහ automation මෙවලම් නිර්මාණය කිරීම මගේ ප්‍රධාන උනන්දුවයි. භාවිතයට පහසු, ආරක්ෂිත සහ විශ්වාසදායක මෘදුකාංග ගොඩනැගීම මගේ අරමුණයි.
 
 </details>
 
----
+## 🧰 Technology Stack
 
-<a id="tech-stack"></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,js,ts,react,tailwind,nodejs,python,firebase,git,github,vscode,cloudflare,linux,bash&perline=9" alt="Technologies and tools">
+</p>
 
-## 🛠️ Tech Stack
-
-Technologies and tools I work with daily and continue to explore:
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📱 Mobile Development</h3>
-      <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio&theme=dark" alt="Java, Kotlin, Android Studio">
-      <p>Android SDK · Custom IMEs · Architecture Components · Gradle</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🌐 Web & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React, Tailwind">
-      <p>Modern UI · Responsive Layouts · Web Performance</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>⚙️ Backend & Automation</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,firebase&theme=dark" alt="Node.js, Python, Firebase">
-      <p>RESTful APIs · Task Automation · Bot Architectures</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>☁️ Tools & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Cloudflare, Linux, Bash">
-      <p>Version Control · CI/CD Workflows · Terminal Automation</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<a id="selected-projects"></a>
-
-## 🚀 Selected Projects
-
-Here are highlights of open-source and real-world projects I have built or actively maintain:
-
-### ⌨️ [Unexpected Keyboard](https://github.com/Lakmal2078/Unexpected-Keyboard)
-A lightweight, privacy-focused Android virtual keyboard (IME) featuring corner swipe gestures, an interactive **Gboard-style theme gallery** with real-time previews, and a full **Sinhala phonetic (Singlish) transliteration suite** with context-aware word prediction.
-- **Tech:** Java, Android SDK (API 36), Python, Custom Layout Generators
-- **Links:** [Repository](https://github.com/Lakmal2078/Unexpected-Keyboard) · [Sinhala Guide](https://github.com/Lakmal2078/Unexpected-Keyboard/blob/master/README.si.md)
-
-### 💬 [ChatLK (Inclusive Eyes)](https://github.com/Lakmal2078/inclusive-eyes-chatlk)
-A fast, modern multilingual conversational messaging platform built for intuitive user experience, instant interactions, and reliable communication workflows.
-- **Tech:** JavaScript, React, WebSockets, Node.js
-- **Links:** [Repository](https://github.com/Lakmal2078/inclusive-eyes-chatlk)
-
-### 📦 [pkg-browser](https://github.com/Lakmal2078/pkg-browser)
-An interactive developer-oriented package explorer and tooling utility designed for rapid inspection of dependencies, distribution metadata, and software configurations.
-- **Tech:** JavaScript / TypeScript, Node.js, CLI Tools
-- **Links:** [Repository](https://github.com/Lakmal2078/pkg-browser)
-
-### 🌐 [Gamage Marketing](https://github.com/Lakmal2078/gamagemarketing)
-A fast, SEO-optimized digital web presence and marketing portal showcasing responsive web design and performance best practices.
-- **Tech:** HTML5, CSS3, JavaScript, GitHub Pages
-- **Links:** [Source Code](https://github.com/Lakmal2078/gamagemarketing) · [Live Website](https://lakmal2078.github.io/gamagemarketing/)
-
-### 💳 [Fast Cash New](https://github.com/Lakmal2078/Fast_cash_New)
-A digital cashier transaction workflow application focused on clarity, operational speed, and reliable ledger tracking.
-- **Tech:** Web Technologies, JavaScript, Security Hardening
-- **Links:** [Repository](https://github.com/Lakmal2078/Fast_cash_New)
-
-<div align="center">
-
-[**Explore all public repositories &rarr;**](https://github.com/Lakmal2078?tab=repositories)
-
-</div>
-
----
-
-<a id="engineering-principles"></a>
-
-## 🧭 How I Approach Building
-
-| Principle | Practical Focus |
+| Area | Tools & Focus |
 | :--- | :--- |
-| 💡 **Clarity First** | Thoroughly diagnose the real user need before choosing tools or writing code. |
-| 🎯 **Usability** | Build simple, intuitive interfaces that reduce friction for the end user. |
-| ⚡ **Performance** | Optimize bottlenecks, minimize allocations, and keep applications snappy. |
-| 🔐 **Privacy & Security** | Default to on-device processing and robust input sanitation from day one. |
-| 🧱 **Reliability** | Defensive error handling, deterministic tests, and predictable recovery. |
-| 🔄 **Continuous Polish** | Code review, refactor iteratively, and learn from user feedback. |
+| **Mobile** | Java · Kotlin · Android SDK · Custom IMEs · Gradle |
+| **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS |
+| **Backend** | Node.js · Python · Firebase · REST APIs · WebSockets |
+| **Tools & Platforms** | Git · GitHub · VS Code · Cloudflare · Linux · Bash |
 
----
+## 🚀 Featured Projects
 
-<a id="github-activity"></a>
+A selection of projects I've built, explored, or actively maintained.
 
-## 📊 GitHub Activity
+<details open>
+<summary><b>⌨️ Unexpected Keyboard</b> · Android</summary>
+
+A lightweight, privacy-focused Android keyboard with corner-swipe gestures, a customizable theme gallery, real-time previews, and Sinhala phonetic (Singlish) transliteration with context-aware word prediction.
+
+**Built with:** Java · Android SDK · Python
+
+[Repository](https://github.com/Lakmal2078/Unexpected-Keyboard) · [Sinhala Guide](https://github.com/Lakmal2078/Unexpected-Keyboard/blob/master/README.si.md)
+</details>
+
+<details>
+<summary><b>💬 ChatLK (Inclusive Eyes)</b> · Messaging platform</summary>
+
+A multilingual conversational messaging platform focused on intuitive interaction and responsive communication workflows.
+
+**Built with:** JavaScript · React · WebSockets · Node.js
+
+[View repository](https://github.com/Lakmal2078/inclusive-eyes-chatlk)
+</details>
+
+<details>
+<summary><b>📦 pkg-browser</b> · Developer tooling</summary>
+
+A developer-oriented package explorer for inspecting dependencies, package metadata, and software configurations.
+
+**Built with:** JavaScript / TypeScript · Node.js
+
+[View repository](https://github.com/Lakmal2078/pkg-browser)
+</details>
+
+<details>
+<summary><b>🌐 Gamage Marketing</b> · Web</summary>
+
+A responsive, SEO-conscious web presence showcasing modern frontend implementation and web performance practices.
+
+**Built with:** HTML · CSS · JavaScript · GitHub Pages
+
+[Source code](https://github.com/Lakmal2078/gamagemarketing) · [Live website](https://lakmal2078.github.io/gamagemarketing/)
+</details>
+
+<details>
+<summary><b>💳 Fast Cash New</b> · Application</summary>
+
+A digital cashier transaction workflow application focused on operational clarity and ledger tracking.
+
+[View repository](https://github.com/Lakmal2078/Fast_cash_New)
+</details>
+
+<p align="center">
+  <a href="https://github.com/Lakmal2078?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Public%20Repositories-2563EB?style=for-the-badge&logo=github" alt="Explore all public repositories"></a>
+</p>
+
+## 📊 GitHub Overview
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lakmal2078&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  height="165"
-  alt="Lakmal2078 GitHub statistics"
->
-
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&hide_border=true&theme=transparent&langs_count=6"
-  height="165"
-  alt="Language usage across Lakmal2078 repositories"
->
-
-<br>
-<br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Lakmal2078&theme=github-compact&hide_border=true"
-  width="95%"
-  alt="Lakmal2078 GitHub contribution activity graph"
->
-
+  <a href="https://github.com/Lakmal2078">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lakmal2078&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub statistics">
+  </a>
+  <a href="https://github.com/Lakmal2078">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakmal2078&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages">
+  </a>
 </div>
 
----
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakmal2078&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</div>
 
-## 🌱 Currently Focusing On
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakmal2078&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
+</div>
 
-- 📱 Advanced Android input method engineering, accessibility, and dynamic theme systems.
-- 🌐 Scalable full-stack application patterns with modern web frameworks.
-- 🤖 Intelligent automation, developer productivity bots, and shell utilities.
-- 🔐 Real-world application security audits, privacy safeguards, and performance profiling.
-- 🤝 Contributing to open-source software and collaborating with developer communities.
+## 🧭 Engineering Principles
 
----
+| Principle | How I apply it |
+| :--- | :--- |
+| 💡 **Clarity first** | Understand the problem before choosing the solution. |
+| 🎯 **User-focused** | Keep interfaces intuitive and workflows straightforward. |
+| ⚡ **Performance** | Identify bottlenecks and avoid unnecessary complexity. |
+| 🔐 **Privacy & security** | Prefer secure defaults and privacy-conscious design. |
+| 🧱 **Reliability** | Handle errors deliberately and make behavior predictable. |
+| 🔄 **Continuous improvement** | Test, review, refactor, and learn from feedback. |
 
-<a id="lets-connect"></a>
+## 🌱 Currently Exploring
+
+- Advanced Android input method engineering and dynamic theming.
+- Modern full-stack application architecture.
+- Intelligent automation, bots, and Linux shell tooling.
+- Application security, privacy safeguards, and performance profiling.
+- Open-source collaboration and practical developer tools.
 
 ## 🤝 Let's Connect
 
-Whether you'd like to discuss a project, collaborate on open-source software, or talk tech:
+I'm open to meaningful conversations about software, practical projects, and open-source collaboration.
 
-- 💬 **WhatsApp:** [+94 76 586 5387](https://wa.me/94765865387)
-- ✉️ **Email:** [lakmalsujith25@gmail.com](mailto:lakmalsujith25@gmail.com)
 - 💼 **LinkedIn:** [Lakmal Vidana Gamage](https://www.linkedin.com/in/lakmal-vidanagamage)
+- ✉️ **Email:** [lakmalsujith25@gmail.com](mailto:lakmalsujith25@gmail.com)
+- 💬 **WhatsApp:** [+94 76 586 5387](https://wa.me/94765865387)
 - 🌐 **Portfolio:** [lakmal2078.github.io/gamagemarketing](https://lakmal2078.github.io/gamagemarketing/)
 - 🐙 **GitHub:** [@Lakmal2078](https://github.com/Lakmal2078)
 
@@ -216,8 +171,10 @@ Whether you'd like to discuss a project, collaborate on open-source software, or
 
 ### Code. Create. Learn. Improve.
 
-සිංහලෙන් හිතමු · English වලින් Code කරමු · ලෝකයට Build කරමු 🇱🇰
+**සිංහලෙන් හිතමු · English වලින් Code කරමු · ලෝකයට Build කරමු 🇱🇰**
 
 <sub>Built with curiosity, care, and purpose.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" alt="Decorative footer">
 
 </div>
