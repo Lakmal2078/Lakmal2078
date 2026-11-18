@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="680" viewBox="0 0 1600 680" role="img" aria-labelledby="title desc">
+<title id="title">Lakmal Vidana Gamage — Developer Profile</title>
+<desc id="desc">A dark navy animated technology banner for Lakmal Vidana Gamage, software developer from Sri Lanka, with cyan and violet gradients, developer specialties, and an orbiting LG monogram.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1B"/><stop offset=".55" stop-color="#101B35"/><stop offset="1" stop-color="#11102A"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#3B82F6"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#2563EB" stop-opacity=".32"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8BA4D8" stroke-opacity=".08"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+  <style>
+    text{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .fade{animation:fade .9s ease-out both}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    .float{animation:float 5s ease-in-out infinite}
+    .spin{transform-origin:1240px 335px;animation:spin 24s linear infinite}
+    .pulse{animation:pulse 3s ease-in-out infinite}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    @keyframes rise{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{opacity:.3}50%{opacity:.85}}
+    @media(prefers-reduced-motion:reduce){.fade,.rise,.float,.spin,.pulse{animation:none}}
+  </style>
+  <clipPath id="clip"><rect width="1600" height="680" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1600" height="680" fill="url(#bg)"/>
+  <rect width="1600" height="680" fill="url(#grid)"/>
+  <ellipse cx="180" cy="120" rx="550" ry="350" fill="url(#glow)" filter="url(#blur)"/>
+  <ellipse cx="1310" cy="360" rx="420" ry="360" fill="#7C3AED" opacity=".10" filter="url(#blur)"/>
+  <path d="M0 560C330 470 500 720 850 590S1300 470 1600 560" fill="none" stroke="url(#accent)" stroke-opacity=".18" stroke-width="2"/>
+  <g class="rise" style="animation-delay:.1s">
+    <text x="112" y="155" fill="#67E8F9" font-size="22" font-weight="700" letter-spacing="5">HELLO, WORLD 👋</text>
+    <text x="105" y="260" fill="#F8FAFC" font-size="65" font-weight="800" letter-spacing="-2">Lakmal Vidana</text>
+    <text x="105" y="337" fill="#F8FAFC" font-size="65" font-weight="800" letter-spacing="-2">Gamage</text>
+    <rect x="108" y="372" width="100" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="108" y="430" fill="#C7D2FE" font-size="28" font-weight="600">Software Developer · Sri Lanka 🇱🇰</text>
+    <text x="108" y="480" fill="#94A3B8" font-size="22">Android • Web • Automation • Linux • AI Tools</text>
+    <g transform="translate(108 535)">
+      <rect width="178" height="48" rx="24" fill="#14233D" stroke="#2DD4BF" stroke-opacity=".6"/>
+      <circle cx="23" cy="24" r="6" fill="#2DD4BF"/>
+      <text x="42" y="31" fill="#DDFBF7" font-size="18" font-weight="700">BUILD WITH PURPOSE</text>
+    </g>
+  </g>
+  <g class="fade" style="animation-delay:.25s">
+    <circle cx="1240" cy="335" r="236" fill="#0B1428" stroke="#263858" stroke-width="2"/>
+    <circle cx="1240" cy="335" r="211" fill="none" stroke="#64748B" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 14"/>
+    <circle cx="1240" cy="335" r="184" fill="none" stroke="url(#accent)" stroke-width="5" stroke-dasharray="360 800" stroke-linecap="round"/>
+    <circle cx="1240" cy="335" r="160" fill="#111E38" stroke="#334A70" stroke-width="2"/>
+    <circle cx="1240" cy="335" r="145" fill="url(#glow)"/>
+    <text x="1240" y="365" text-anchor="middle" fill="#F8FAFC" font-size="112" font-weight="800" letter-spacing="-8">LG</text>
+    <circle cx="1240" cy="335" r="252" fill="none" stroke="#38BDF8" stroke-opacity=".15" stroke-width="1"/>
+    <g class="spin">
+      <circle cx="1240" cy="83" r="9" fill="#22D3EE"/>
+      <circle cx="1240" cy="83" r="18" fill="#22D3EE" opacity=".25" filter="url(#shadow)"/>
+    </g>
+    <g class="spin" style="animation-direction:reverse;animation-duration:32s">
+      <circle cx="1240" cy="98" r="7" fill="#A78BFA"/>
+    </g>
+    <g class="float">
+      <rect x="1090" y="555" width="300" height="54" rx="27" fill="#101B31" stroke="#334A70"/>
+      <circle cx="1120" cy="582" r="6" fill="#34D399"/>
+      <text x="1140" y="590" fill="#DCE7F8" font-size="20" font-weight="700">Always Learning &amp; Building</text>
+    </g>
+  </g>
+  <g class="pulse" fill="#67E8F9">
+    <circle cx="900" cy="135" r="3"/><circle cx="1020" cy="520" r="4"/><circle cx="1490" cy="205" r="3"/><circle cx="1450" cy="530" r="3"/>
+  </g>
+  <path d="M0 650H1600" stroke="url(#accent)" stroke-opacity=".7" stroke-width="3"/>
+</g>
+</svg>
